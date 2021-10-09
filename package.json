@@ -22,12 +22,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node bot.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/buddhamangler/solverse-scene-trader.git"
-  },
+  "repository": "git+https://github.com/buddhamangler/solverse-scene-trader.git",
   "keywords": [],
-  "author": "",
+  "author": "<rryananizer@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/buddhamangler/solverse-scene-trader/issues"
