@@ -1,0 +1,35 @@
+{
+  "name": "solverse-scene-trader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "bufferutil": "^4.0.4",
+    "discord-api-types": "^0.23.1",
+    "discord.js": "^13.2.0",
+    "dotenv": "^10.0.0",
+    "erlpack": "github:discord/erlpack",
+    "npm": "^8.0.0",
+    "utf-8-validate": "^5.0.6",
+    "zlib-sync": "^0.1.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buddhamangler/solverse-scene-trader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buddhamangler/solverse-scene-trader/issues"
+  },
+  "homepage": "https://github.com/buddhamangler/solverse-scene-trader#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
