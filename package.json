@@ -9,16 +9,12 @@
     "discord-api-types": "^0.23.1",
     "discord.js": "^13.2.0",
     "dotenv": "^10.0.0",
-    "erlpack": "github:discord/erlpack",
     "node-sass": "^6.0.1",
     "npm": "^8.0.0",
-    "patch-package": "^6.4.7",
     "utf-8-validate": "^5.0.6",
     "zlib-sync": "^0.1.7"
   },
   "scripts": {
-    "postinstall": "patch-package",
-    "heroku-cleanup": "patch-package",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node bot.js"
   },
