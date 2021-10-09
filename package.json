@@ -31,5 +31,8 @@
   "homepage": "https://github.com/buddhamangler/solverse-scene-trader#readme",
   "devDependencies": {
     "eslint": "^7.32.0"
+  },
+  "engines": {
+    "node": "16.11.0"
   }
 }
